@@ -1,0 +1,23 @@
+{
+  "name": "w2v",
+  "version": "1.0.0",
+  "description": "Word2Vec model loader for client-side Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgegach/w2v.git"
+  },
+  "keywords": [
+    "w2v",
+    "word2vec"
+  ],
+  "author": "georgegach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/georgegach/w2v/issues"
+  },
+  "homepage": "https://github.com/georgegach/w2v#readme"
+}
